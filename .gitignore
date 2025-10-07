@@ -39,3 +39,6 @@ Thumbs.db
 # Excel temporary files
 ~$*.xlsx
 ~$*.xls
+
+# Exclude stocks.xlsx from tracking after initial commit (contains test data)
+# Note: Initial version is included, but updates won't be tracked
